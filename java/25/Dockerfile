@@ -24,7 +24,7 @@ FROM        --platform=$TARGETOS/$TARGETARCH eclipse-temurin:25-jdk
 
 LABEL       author="Matthew Penner" maintainer="matthew@pterodactyl.io"
 
-LABEL       org.opencontainers.image.source="https://github.com/EarWarm/yolks-mountcode"
+LABEL       org.opencontainers.image.source="https://github.com/earwarm/yolks-mountcode"
 LABEL       org.opencontainers.image.licenses=MIT
 
 RUN 				apt-get update -y \

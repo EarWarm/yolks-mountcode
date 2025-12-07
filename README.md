@@ -21,6 +21,6 @@ is tagged correctly.
 
 ## Available Images
 
-* [`java`](https://github.com/pterodactyl/yolks/tree/master/java)
-  * [`21`](https://github.com/pterodactyl/yolks/tree/master/java/25)
-    * `ghcr.io/EarWarm/yolks-mountcode:java_25`
+* [`java`](https://github.com/earwarm/yolks-mountcode/tree/master/java)
+  * [`21`](https://github.com/earwarm/yolks-mountcode/tree/master/java/25)
+    * `ghcr.io/earwarm/yolks-mountcode:java_25`
